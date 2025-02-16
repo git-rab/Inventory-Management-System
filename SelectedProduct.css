@@ -1,0 +1,46 @@
+/* Style for the page title */
+h1 {
+	text-align: center;
+	font-size: 2.5rem;
+	margin-top: 2rem;
+}
+
+/* Style for the product container */
+.product {
+	border: 2px solid #ccc;
+	padding: 1rem;
+	margin: 2rem auto;
+	max-width: 600px;
+	text-align: center;
+}
+
+/* Style for the product name */
+.product h2 {
+	font-size: 2rem;
+	margin-bottom: 1rem;
+}
+
+/* Style for the product details */
+.product p {
+	font-size: 1.2rem;
+	margin-bottom: 0.5rem;
+}
+
+/* Style for the buy button */
+.product button {
+	background-color: #4CAF50;
+	color: #fff;
+	font-size: 1.2rem;
+	padding: 0.5rem 1rem;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+/* Hover effect for the buy button */
+.product button:hover {
+	background-color: #3e8e41;
+}
+p {
+	text-align: center;
+}
